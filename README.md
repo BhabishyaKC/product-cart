@@ -1,5 +1,5 @@
 # product-cart
-Only UI of a product cart  built using react.
+Only UI of a product cart  built using react. I designed this while studying react. But i decided to push it into my git repo.
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
