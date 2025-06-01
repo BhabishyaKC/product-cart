@@ -67,7 +67,7 @@ const productName = [
    
 ];
 
-// Updated to display discounted price if available
+
 const ProductCart = (props) => {
   return (
     <div className='  bg-gray-200 mt-5 product-items rounded-lg shadow-2xs p-4 h-auto max-w-[90%] cursor-pointer hover:bg-gray-300 duration-500'>
